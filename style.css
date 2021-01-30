@@ -186,27 +186,27 @@
     @keyframes polaroid {
         0% {
             transform: rotate(0);
-            width:300px;
+            width:350px;
         }
 
         25% {
             transform: rotate(-3deg);
-            width:305px;
+            width:355px;
         }
 
         50% {
             transform: rotate(3deg);
-            width:310px;
+            width:360px;
         }
 
         75% {
             transform: rotate(-3deg);
-            width:315px;
+            width:365px;
         }
 
         100% {
             transform: rotate(3deg);
-            width:320px;
+            width:370px;
         }
     }
 
